@@ -1,5 +1,5 @@
 ---
-title: "mi ruta de aprendizaje LauchX"
+title: "Mi ruta de aprendizaje LauchX"
 date: 2022-04-06
 description: 'Travesia en Lauch X'
 ---
