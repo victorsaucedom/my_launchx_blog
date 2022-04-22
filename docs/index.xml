@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Victor Saucedo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victorsaucedom.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victorsaucedom.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje LauchX</title>
+      <link>https://victorsaucedom.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorsaucedom.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>He aprendido los siguientes comandos
+ git Bash git Init git status git add git commit git config gitt checkout &amp;ndash;   Hare Pruebas con git remote, desde 0 ya se realizarlo pero no encuentro para hacerlo con una carpeta ya existente
+Gracias!!</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje LauchX</title>
       <link>https://victorsaucedom.github.io/my_launchx_blog/posts/post_1/</link>
